@@ -58,3 +58,11 @@ Here's a brief description of the folders in this project:
 
 - **train/**: Additional training-related data or files.
 
+# Input data
+
+![2](https://github.com/RajKrishna2123/IIT_Dhanbad/assets/58541488/3523f446-8cb0-4794-a1cf-95e8aa3b729c) ![2](https://github.com/RajKrishna2123/IIT_Dhanbad/assets/58541488/ba5933c0-5263-4f4b-8183-155b788bd922)
+
+# result data
+
+![selective_segment](https://github.com/RajKrishna2123/IIT_Dhanbad/assets/58541488/b631d2b5-3f62-4e56-8b67-43fb062efefa)
+
