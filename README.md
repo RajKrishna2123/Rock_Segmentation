@@ -20,3 +20,19 @@ To set up the environment, you can use the following commands:
 
 ```bash
 pip install tensorflow_gpu==2.10 opencv-python scikit-learn matplotlib
+
+IIT_Dhanbad/
+├── code/
+│   ├── heD_model/
+│   ├── segment_data/
+│   ├── train/
+│   |── model.ipynb
+│   │── model2.ipynb
+│   │── model3.ipynb
+│   └── cook/
+├── data/
+│   ├── images/
+│   ├── masks/
+│   └── mask/
+├── mask_prep/
+├── train/
