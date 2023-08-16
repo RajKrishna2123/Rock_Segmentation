@@ -47,8 +47,7 @@ Here's a brief description of the folders in this project:
   - **heD_model/**: HED model implementation or files related to it.
   - **segment_data/**: Semantically segmented individual rock data.
   - **train/**: Jupyter notebooks for training the models.
-  - **cook/**: Unclear what this folder is used for. Please provide more information.
-
+  - **cook/**: Temporary folder for other purposes
 - **data/**: Holds the image and mask data for the project.
   - **images/**: Image data used for training and analysis.
   - **masks/**: Mask data with 0 and 255 values.
