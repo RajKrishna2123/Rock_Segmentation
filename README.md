@@ -1,11 +1,22 @@
 # IIT_Dhanbad
-<h2>Problem Statement</h2><br>
-classification of individual rocks into 3 categories big medium small and prediction of the falling pattern by analyzing the images provided of the rock dump 
 
-<h1>Environment setup python 3.10</h1>
-<h3>Requirements</h3>
-<ul> 
-  <li>tensorflow_gpu==2.10</li>
-  <li>opencv</li>
-  <li>model hed for opencv link:-https://github.com/s9xie/hed </li>
-</ul>
+## Problem Statement
+
+The objective of this project is to perform the classification of individual rocks into three categories: big, medium, and small. Additionally, the project aims to predict the falling pattern of these rocks by analyzing the provided images of the rock dump.
+
+## Environment Setup
+
+This project is developed using Python 3.10. The required libraries and packages are listed below:
+
+### Requirements
+
+- **tensorflow_gpu==2.10**
+- **opencv**
+- **model hed for opencv**: You can find the model at [https://github.com/s9xie/hed](https://github.com/s9xie/hed)
+- **scikit-learn**
+- **matplotlib**
+
+To set up the environment, you can use the following commands:
+
+```bash
+pip install tensorflow_gpu==2.10 opencv-python scikit-learn matplotlib
