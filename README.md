@@ -21,7 +21,7 @@ To set up the environment, you can use the following commands:
 ```bash
 pip install tensorflow_gpu==2.10 opencv-python scikit-learn matplotlib
 ```
-```
+```bash
 IIT_Dhanbad/
 ├── code/
 │   ├── heD_model/
@@ -37,3 +37,4 @@ IIT_Dhanbad/
 │   └── mask/
 ├── mask_prep/
 ├── train/
+```
